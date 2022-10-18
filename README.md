@@ -1,27 +1,29 @@
-# Vue Crash Course (Task Tracker)
+# vue-project
 
-> This is the project from the YouTube crash course
+This template should help get you started developing with Vue 3 in Vite.
 
-## Project setup
+## Recommended IDE Setup
 
-```
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
 npm install
 ```
 
-## Run the JSON-Server backend (http://localhost:5000)
+### Compile and Hot-Reload for Development
 
-```
-npm run backend
-```
-
-## Run the Vue dev server (http://localhost:8080)
-
-```
-npm run serve
+```sh
+npm run dev
 ```
 
-## Compiles and minifies for production
+### Compile and Minify for Production
 
-```
+```sh
 npm run build
 ```
